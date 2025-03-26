@@ -12,6 +12,5 @@ members:
 - Tyler
 <<<<<<< HEAD
 - kim
-=======
-- Park
->>>>>>> conflict
+
+fetch : this
